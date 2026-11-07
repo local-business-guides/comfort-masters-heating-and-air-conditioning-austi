@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/comfort-masters-heating-and-air-conditioning-austi/sitemap.xml
+Sitemap: https://local-business-guides.github.io/comfort-masters-heating-and-air-conditioning-austi/news-sitemap.xml
